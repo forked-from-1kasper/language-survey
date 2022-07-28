@@ -5,11 +5,11 @@ head = lambda xs: xs[0]
 tail = lambda xs: xs[1:]
 
 languages = [
-    "C", "C++", "BASIC", "Go", "Rust", "JavaScript", "Java", "C#", "Scala",
+    "C", "C++", "FreeBASIC", "Go", "Rust", "JavaScript", "Java", "C#", "Scala",
     "Common Lisp", "Agda", "Lean", "Coq", "Idris", "Haskell", "OCaml",
     "Standard ML", "Erlang", "Elixir", "Clojure", "Scheme", "Pascal", "PHP",
     "Forth", "Objective-C", "Ruby", "Perl", "Perl 6", "D", "Kotlin", "Swift",
-    "Visual Basic", "F#", "Fortran", "R", "Lua", "Prolog", "COBOL", "Python", "Ada"
+    "Visual Basic .NET", "F#", "Fortran", "R", "Lua", "Prolog", "COBOL", "Python", "Ada"
 ]
 shuffle(languages)
 
